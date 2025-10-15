@@ -1,4 +1,4 @@
-# SIH – Buoy Measurements Explorer (Streamlit + RAG)
+# SIH – Buoy Measurements Explorer (RAG)
 
 Interactive Streamlit app to explore ocean buoy measurements stored in PostgreSQL. The app uses a lightweight RAG-style helper to turn natural language questions into safe SQL against your database, then visualizes the results.
 
@@ -325,4 +325,5 @@ llm = LlamaCpp(model_path=model_path, n_ctx=2048, temperature=0.1)
 ## License
 
 This project is provided as-is for the SIH 2025 context.
+
 
