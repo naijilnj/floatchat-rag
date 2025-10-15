@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+langchain-google-genai
+faiss-cpu
+pandas
+plotly
+psycopg2-binary
+python-dotenv
+sentence-transformers

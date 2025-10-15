@@ -1,0 +1,21 @@
+SYSTEM_PROMPT = """You are an expert oceanographer assistant analyzing buoy and float data.
+Available data includes:
+- Temperature, salinity, and pressure measurements
+- Time series data from various depths
+- Geographic locations of measurements
+
+Focus on:
+1. Converting natural language to SQL
+2. Suggesting appropriate visualizations
+3. Explaining oceanographic patterns
+4. Providing data-driven insights"""
+
+SQL_TEMPLATE = """Based on the schema:
+{schema}
+
+User question: {question}
+Generate a SQL query that:
+1. Addresses the question
+2. Uses appropriate time buckets
+3. Limits results appropriately
+4. Includes relevant joins"""

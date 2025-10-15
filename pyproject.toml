@@ -1,0 +1,29 @@
+[project]
+name = "sih"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "bs4>=0.0.2",
+    "faiss-cpu>=1.12.0",
+    "geopandas>=1.1.1",
+    "git-filter-repo>=2.47.0",
+    "google-generativeai>=0.8.5",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.29",
+    "langchain-google-genai>=2.0.10",
+    "langchain-huggingface>=0.3.1",
+    "netcdf4>=1.7.2",
+    "pandas>=2.3.2",
+    "plotly>=6.3.0",
+    "psycopg2>=2.9.10",
+    "psycopg2-binary>=2.9.10",
+    "python-dotenv>=1.1.1",
+    "requests>=2.32.5",
+    "sentence-transformers>=5.1.1",
+    "sqlalchemy>=2.0.43",
+    "streamlit>=1.49.1",
+    "tabulate>=0.9.0",
+    "xarray>=2025.6.1",
+]
