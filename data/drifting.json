@@ -1,0 +1,44 @@
+[
+    {
+        "latitude": 4.8849,
+        "buoyId": "IN0017",
+        "longitude": 72.9357,
+        "status": "old"
+    },
+    {
+        "latitude": 12.9982,
+        "buoyId": "IN0038",
+        "longitude": 74.5303,
+        "status": "new"
+    },
+    {
+        "latitude": 20.3781,
+        "buoyId": "IN0040",
+        "longitude": 69.6647,
+        "status": "new"
+    },
+    {
+        "latitude": -11.5825569,
+        "buoyId": "I300534064138600",
+        "longitude": 78.4528109,
+        "status": "new"
+    },
+    {
+        "latitude": 16.1176,
+        "buoyId": "IN0035",
+        "longitude": 71.9597,
+        "status": "new"
+    },
+    {
+        "latitude": 11.8102,
+        "buoyId": "IN0030",
+        "longitude": 74.1738,
+        "status": "new"
+    },
+    {
+        "latitude": 6.3439,
+        "buoyId": "AR020220830",
+        "longitude": 80.0438,
+        "status": "new"
+    }
+]

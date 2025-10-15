@@ -1,0 +1,52 @@
+"air_pressure",Air Pressure
+"air_temperature",Air Temperature
+"humidity",Relative Humidity
+"rainfall",Rainfall
+"wind_direction",Wind Direction
+"wind_speed",Wind Speed
+"wind_gust",Wind Gust
+"irradiance",Irradiance
+"radiationin",Radiation In
+"dvs_direction_1_20m",Current Direction @ 1.20m
+"dvs_direction_1_25m",Current Direction @ 1.25m
+"dvs_direction_003m",Current Direction @ 003m
+"dvs_speed_1_20m",Current Speed @ 1.20m
+"dvs_speed_1_25m",Current Speed @ 1.25m
+"dvs_speed_003m",Current Speed @ 003m
+"adcp_direction_015m",Current Direction @ 015m
+"adcp_direction_025m",Current Direction @ 025m
+"adcp_direction_035m",Current Direction @ 035m
+"adcp_direction_050m",Current Direction @ 050m
+"adcp_direction_075m",Current Direction @ 075m
+"adcp_direction_100m",Current Direction @ 100m
+"adcp_speed_015m",Current Speed @ 015m
+"adcp_speed_025m",Current Speed @ 025m
+"adcp_speed_035m",Current Speed @ 035m
+"adcp_speed_050m",Current Speed @ 050m
+"adcp_speed_075m",Current Speed @ 075m
+"adcp_speed_100m",Current Speed @ 100m
+"water_temperature_0_5m",Water Temperature @ 0.5m
+"water_temperature_001m",Water Temperature @ 001m
+"water_temperature_005m",Water Temperature @ 005m
+"water_temperature_010m",Water Temperature @ 010m
+"water_temperature_015m",Water Temperature @ 015m
+"water_temperature_020m",Water Temperature @ 020m
+"water_temperature_030m",Water Temperature @ 030m
+"water_temperature_050m",Water Temperature @ 050m
+"water_temperature_075m",Water Temperature @ 075m
+"water_temperature_100m",Water Temperature @ 100m
+"water_temperature_200m",Water Temperature @ 200m
+"water_temperature_500m",Water Temperature @ 500m
+"salinity_0_5m",Salinity @ 0.5m
+"salinity_001m",Salinity @ 001m
+"salinity_005m",Salinity @ 005m
+"salinity_010m",Salinity @ 010m
+"salinity_015m",Salinity @ 015m
+"salinity_020m",Salinity @ 020m
+"salinity_030m",Salinity @ 030m
+"salinity_050m",Salinity @ 050m
+"salinity_075m",Salinity @ 075m
+"salinity_100m",Salinity @ 100m
+"salinity_200m",Salinity @ 200m
+"salinity_500m",Salinity @ 500m
+"hm0",Significant Wave Height
